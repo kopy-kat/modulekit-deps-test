@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rhinestone/modulekit": "github:rhinestonewtf/modulekit#dev"
+  }
+}
